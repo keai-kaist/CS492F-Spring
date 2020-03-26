@@ -1,7 +1,8 @@
-# CS492 - Deep Learning Practice 
-## Introduction to Tensorflow
+# CS492F - Deep Learning Practice 
+
+## Introduction to TensorFlow
 - Environment setup 
-- Introduction to Tensorflow
+- Introduction to TensorFlow
 - Tensors and operations based on eager execution 
 - Neural networks in TensorFlow 
 - Image classification 
