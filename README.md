@@ -41,5 +41,3 @@
 - Neural machine translation with attention
 - Image captioning with visual attention
 - DCGAN
-- Transformers
-- Image Segmentation
