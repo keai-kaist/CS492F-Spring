@@ -40,4 +40,5 @@
 - Sequence to sequence model
 - Neural machine translation with attention
 - Image captioning with visual attention
-- DCGAN
+- Variational Autoencoder
+- Deep Comvolutional Generative Adversarial Network
